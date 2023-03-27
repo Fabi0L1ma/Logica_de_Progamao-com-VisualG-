@@ -1,5 +1,9 @@
 Algoritmo "Patidas(vetores)"
-
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 30/01/2023
 Var
 
 time: vetor[1..3] de caractere
